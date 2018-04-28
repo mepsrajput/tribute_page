@@ -1,0 +1,89 @@
+main {
+  width: 80%;
+  margin: 0 auto;
+  border: 1px;
+  background-color: gainsboro;
+  border-radius: 3px;
+}
+
+.firstdiv {
+  padding-bottom: 1px;
+  width:90%;
+  margin:0 auto;
+  background-color:red;
+}
+
+.name {
+  font-family: "Roboto Slab", serif;
+  text-align: center;
+  font-size: 500%;
+  padding-top: 10px;
+  margin-bottom: -30px;
+}
+.quote {
+  text-align: center;
+  font-style: italic;
+  font-family: "Great Vibes", cursive;
+  font-size: 30px;
+}
+
+.image {
+  height: 60%;
+  border-radius: 3px;
+  width
+  box-shadow: 5px 5px 5px grey;
+}
+
+.seconddiv {
+  width: 90%;
+  margin: 0 auto;
+ background-color:yellow;
+}
+
+.timeline {
+  font-family: "Roboto Slab", serif;
+  font-size: 250%;
+  font-weight: lighter;
+  padding-top: 5px;
+  margin-bottom: -10px;
+}
+.peoplethought {
+  padding-top: 50px;
+  padding-bottom: 7px;
+  text-align: center;
+  font-family: "Bitter", serif;
+  font-size: 20px;
+}
+
+.quotedby {
+  text-align: right;
+  font-style: italic;
+  margin-top: -5px;
+}
+
+.external-link {
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+  font-size: 25px;
+}
+
+.heading {
+  font-family: "Lora", serif;
+  font-weight: bold;
+  margin-bottom: -15px;
+  padding-right: 3%;
+}
+
+.describe {
+  margin-bottom: -20px;
+  padding-bottom: -100px;
+  padding-right: 5%;
+  padding-left: 100px;
+  color: #696969;
+}
+
+.div3{
+  background-color:green;
+  width:90%;
+  margin:0 auto;
+}
